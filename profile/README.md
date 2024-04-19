@@ -5,7 +5,7 @@ Welcome to ChainWorkers! We are a collaborative platform dedicated to fostering 
 At ChainWorkers, we unite skilled professionals passionate about blockchain technology to create cutting-edge solutions. Our mission is to empower developers and enthusiasts in the blockchain community through curated projects, resources, and examples.
 
 ## Featured Project: 🏆
-### [XRPL DApp with Next.js](https://github.com/ChainWorkers/XRPL-Dapp-Nextjs)
+### [XRPL-NextJS-integration-example](https://github.com/ChainWorkers/XRPL-NextJS-integration-example)
 
 
 ## Contributors 👥
